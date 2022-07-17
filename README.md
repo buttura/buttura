@@ -11,7 +11,7 @@
       <img src="https://user-images.githubusercontent.com/102910968/179423359-930dc59a-5945-4f0e-b5fd-753b5d5c8ad0.png" height=15px width=15px></strong>
     </p>
   </li>
-  <img src="https://user-images.githubusercontent.com/102910968/179423282-63e63607-52ab-46a5-b486-4224f7f35c53.png" height=15px width=15px> <a href="https://secreto.tecnicasdeinvasao.com/"><strong>1° Hacking TDI</strong></a>
+  <img src="https://user-images.githubusercontent.com/102910968/179423282-63e63607-52ab-46a5-b486-4224f7f35c53.png" height=15px width=15px> <a href="https://secreto.tecnicasdeinvasao.com/"><strong>Hacking TDI - 1° - 2022</strong></a>
 </ul>
 
 <div style="display: inline_block"><br>
