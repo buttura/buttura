@@ -1,5 +1,8 @@
 ## Me and bla bla bla..
-<div align="center">
+<div>
+  I'm Higor Buttura
+  17y dev & bug hunter
+  I like to hack in my free time..
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
