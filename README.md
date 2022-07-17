@@ -1,7 +1,7 @@
 ## Me and bla bla bla..
 <div>
-  I'm Higor Buttura
-  17y dev & bug hunter
+  I'm Higor Buttura\n
+  17y dev & bug hunter\n
   I like to hack in my free time..
 </div>
 <div style="display: inline_block"><br>
