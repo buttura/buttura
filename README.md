@@ -14,6 +14,7 @@
   </li>
   <img src="https://user-images.githubusercontent.com/102910968/179423282-63e63607-52ab-46a5-b486-4224f7f35c53.png" height='15px' width='15px'> <a href="https://secreto.tecnicasdeinvasao.com/ranking"><strong>Hacking TDI</strong></a> - 6° - 2022<br>
   <img src="https://user-images.githubusercontent.com/102910968/179423359-930dc59a-5945-4f0e-b5fd-753b5d5c8ad0.png" height='15px' width='15px'> <strong>Universidade H4ck3r</strong> - Henrique Cesar<br>
+  <img src="https://user-images.githubusercontent.com/102910968/179423359-930dc59a-5945-4f0e-b5fd-753b5d5c8ad0.png" height='15px' width='15px'> <strong>IDOR glitch found in fetlife</strong><br>
   <li>
     <p>Favourites Tools:</p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height='15px' width='15px'> <strong>Python</strong><br>
